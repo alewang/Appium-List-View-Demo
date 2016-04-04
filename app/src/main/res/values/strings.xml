@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppiumDemo</string>
+
+    <string name="hello_world">Hello world</string>
+    <string name="go_to_webview">Web View demo</string>
+    <string name="go_to_listview">List View demo</string>
+    <string name="the_list_view">list view</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
